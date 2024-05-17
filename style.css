@@ -1,0 +1,24 @@
+/* h1 {
+display: flex;
+justify-content: center;
+} */
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+.overlay-text {
+    position: absolute;
+    bottom: 55%;
+}
+
+
+.image-2 {
+    justify-content: flex-start;
+    height: 250px;
+    border: 1px solid red;
+}
